@@ -12,7 +12,7 @@ A simple e-commerce web application built with React as a learning project. This
 - React
 - React Router (for navigation)
 - Context API (for state management)
-- CSS/SCSS (for styling)
+- CSS (for styling)
 
 ## Getting Started
 1. Clone the repository
